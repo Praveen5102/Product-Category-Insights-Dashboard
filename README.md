@@ -46,7 +46,7 @@ This project is a **Power BI dashboard** built to visualize and analyze sales da
 ## 📎 Related Projects
 
 You can also check out more of my work here:
-👉 [GitHub Profile](https://github.com/praveen5102) *(Replace with your actual GitHub URL)*
+👉 [GitHub Profile](https://github.com/praveen5102) 
 
 ---
 
